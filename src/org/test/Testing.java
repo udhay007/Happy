@@ -8,11 +8,9 @@ public class Testing {
 	}
 	
 	
-	public static void main(String[] args) {
-		Testing t=new Testing();
-		t.emplo();
-		
-		
+	byte=30;
+	int=45;
+	long=9566647655l;
 		
 		
 	}
