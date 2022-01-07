@@ -6,15 +6,10 @@ public class Testing {
 		System.out.println("emplo");
 
 	}
-	
-	
-	public static void main(String[] args) {
-		Testing t=new Testing();
-		t.emplo();
-		
-		System.out.println("udhayauds");
-		System.out.println("============");
-		
+	byte=30;
+	int=45;
+	long=9566647655l;
+
 		
 		
 	}
